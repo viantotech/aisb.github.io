@@ -1,0 +1,25 @@
+{
+    "name": "Aplikasi Informasi Sepak Bola",
+    "short_name": "AISB",
+    "description": "Submission 2",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "icon192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+          },
+        {
+            "src": "icon512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+        "gcm_sender_id": "1094875115569"
+
+}

@@ -1,0 +1,2 @@
+{"publicKey":"BNctIVdg_kQfHq2sqOibV8urZeTDibK2IThXp50Go8OgysJz3uxTaW8lPAT5JgyrZs4cV2kAIyAOkLp0CPGppQU",
+"privateKey":"An0OXWH9nm7hjVg2T9oNZrENQfbzO7mK2a9xKXVMA7E"}
