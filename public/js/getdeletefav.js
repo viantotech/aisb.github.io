@@ -4,8 +4,6 @@ function getAllTim(){
     getTim()
     .then(function (data){
       console.log(data);
-      var dtteam=data.team;
-      var dtmaxteam=dtteam.length;
         let DataTimGetHTML = ''
         data.forEach(function(team){
             DataTimGetHTML +=
