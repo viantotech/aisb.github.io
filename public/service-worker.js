@@ -44,7 +44,9 @@ workbox.precaching.precacheAndRoute([
   { url: '/image/notif.png', revision: '1' },
   { url: '/icon192.png', revision: '1' },
   { url: '/icon512.png', revision: '1' },
-]);
+],{
+ignoreUrlParametersMatching: [/.*/]
+});
 
 workbox.routing.registerRoute(
   /.*(?:png|gif|jpg|jpeg|svg|ico)$/,
